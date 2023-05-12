@@ -5,6 +5,7 @@ public class First {
 a=b=8;
 System.out.println(a+b);
 System.out.println("this is modified");
+System.out.println("saki naki");
   }  
 }
  
